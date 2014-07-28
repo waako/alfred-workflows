@@ -1,4 +1,4 @@
-alfred-workflows
+Alfred Workflows
 ================
 
 My Alfred app workflows
